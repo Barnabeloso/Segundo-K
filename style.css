@@ -1,3 +1,12 @@
- header{background-color:rgb(0, 153, 255); color: azure;}
-        .titulo{color: rgb(0, 0, 0);}
-.POP{color: #FFA500}
+ header {
+         background-color: rgb(0, 153, 255);
+         color: azure;
+ }
+
+ .titulo {
+         color: rgb(0, 0, 0);
+ }
+
+ .POP {
+         color: #FFA500
+ }
